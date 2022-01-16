@@ -1,0 +1,16 @@
+{
+  "name": "LABORATORY-NEXTJS-DYNAMIC-VARIABLES",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "build": "npm run --prefix ./server-next build",
+    "start": "docker-compose up -d --build",
+    "stop": "docker-compose down"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/justalk/LABORATORY-NEXTJS-DYNAMIC-VARIABLES#readme"
+}
